@@ -106,12 +106,6 @@ This repository contains my personal notes on Data Structures and Algorithms, wi
 ---
 
 ### Algorithms & Data Structures for Beginners - NeetCode
-### Arrays
-
-- What is Data Strucutre?
-  Data Structure is a way of structuring data inside of RAM of a computer.
-- How do we store an array in RAM?
-  RAM is measured in bytes. One byte is 8 bits. A bit can be thought of as a position that can store a digit, which has to be either 0 or 1.
 
 <details>
 <summary>Arrays</summary>
