@@ -107,7 +107,7 @@ This repository contains my personal notes on Data Structures and Algorithms, wi
 
 ### Algorithms & Data Structures for Beginners - NeetCode
 
-#### Arrays
+- #### Arrays
 Data Structure is a way of structuring data inside of RAM of a computer
 
 <details>
