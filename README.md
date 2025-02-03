@@ -10,7 +10,7 @@ This repository contains my personal notes on Data Structures and Algorithms, wi
 - [Resources](#resources)
   - [Websites](#websites)
   - [Courses](#courses)
-  - [YouTube Playlists](#youtube-playlists)
+  - [YouTube Channels / Playlists / Videos](#youtube-channels--playlists--videos)
   - [Github Repositories](#github-repositories)
   - [Books](#books)
   - [Practice](#practice)
@@ -34,8 +34,9 @@ This repository contains my personal notes on Data Structures and Algorithms, wi
 | NeetCode Courses | `course` | [Course Link](https://neetcode.io/courses) |
 | C++ Data Structures & Algorithms + LEETCODE Exercises | `course` | [Course Link](https://www.udemy.com/course/data-structures-algorithms-python/?couponCode=ACCAGE0923) |
 | The Last Algorithms Course You'll Need | `course` | [Course Link](https://frontendmasters.com/courses/algorithms/) |
-| Algorithms and Data Structures Tutorial - Full Course for Beginners | `youtube-videos` | [Video Link](https://youtu.be/8hly31xKli0?si=HmAgr-2AlG3hcRZp) | |
-| NeetCode YouTube Videos | `youtube-videos` | [Channel Link](https://www.youtube.com/@NeetCode) |
+| Algorithms and Data Structures Tutorial - Full Course for Beginners | `youtube-video` | [Video Link](https://youtu.be/8hly31xKli0?si=HmAgr-2AlG3hcRZp) | |
+| A & DS English Course - Pavel Mavrin| `youtube-playlist` | [Playlist Link](https://youtube.com/playlist?list=PLrS21S1jm43igE57Ye_edwds_iL7ZOAG4&si=F9wl4QuTwXjn4VbS) | |
+| NeetCode YouTube Videos | `youtube-channel` | [Channel Link](https://www.youtube.com/@NeetCode) |
 | Coding Interview University | `github-repo` | [Repository Link](https://github.com/jwasham/coding-interview-university) |
 | Awesome Algorithms | `github-repo` | [Repository Link](https://github.com/tayllan/awesome-algorithms) |
 
@@ -50,8 +51,10 @@ This repository contains my personal notes on Data Structures and Algorithms, wi
 - [C++ Data Structures & Algorithms + LEETCODE Exercises](https://www.udemy.com/course/data-structures-algorithms-cpp/)
 - [The Last Algorithms Course You'll Need](https://frontendmasters.com/courses/algorithms/)
 
-### YouTube Playlists
+### YouTube Channels / Playlists / Videos
+- 
 - [Algorithms and Data Structures Tutorial - Full Course for Beginners - FreeCodeCamp](https://youtu.be/8hly31xKli0?si=HmAgr-2AlG3hcRZp)
+- [A & DS English Course - Pavel Mavrin](https://youtube.com/playlist?list=PLrS21S1jm43igE57Ye_edwds_iL7ZOAG4&si=F9wl4QuTwXjn4VbS)
 - [Neetcode Videos on YouTube](https://www.youtube.com/@NeetCode)
 
 ### Github Repositories
