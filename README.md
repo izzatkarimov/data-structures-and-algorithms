@@ -150,3 +150,14 @@ Examples:
 - Dynamic Stacks: Stack that resizes as elements are added or removed.
 - Dynamic Queues: Queue that resizes dynamically with elements being added/removed.
 - Hash Tables: Resizes automatically when a capacity threshold is reached.
+
+> What is Big O Notation?
+
+Big O notation is a mathematical concept used to describe the efficiency of algorithms in terms of time complexity and space complexity. It is a measure of how the runtime of an algorithm or memory usage of an algorithm grows as the input size (usually denoted as n) grows.
+
+To reiterate, Big O can be categorized into two types:
+
+- **Time Complexity:** Measures how the runtime of an algorithm grows as the input size grows.
+- **Space Complexity:** Measures how memory usage increases as input size grows.
+
+ ![Image](https://github.com/user-attachments/assets/2c6341a2-4a77-468e-a47d-541d91e39ebe)
