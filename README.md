@@ -26,6 +26,8 @@ This repository contains my personal notes on Data Structures and Algorithms, wi
   - [What is a Dynamic Data Structure?](#what-is-dynamic-data-structure)
   - [What is Big O Notation?](#what-is-big-o-notation)
   - [Common Big O Notations](#common-big-o-notations)
+  - [Common Big O Notations Summary](#common-big-o-notations-summary)
+  - [Additional Big O Notations](#additional-big-o-notations)
 
 ## Resources
 > The following is a list of online courses, YouTube videos, and websites to help learn Data Structures & Algorithms. Note that these are not in order of completion.
@@ -171,7 +173,9 @@ To reiterate, Big O can be categorized into two types:
 - **Time Complexity:** Measures how the runtime of an algorithm grows as the input size grows.
 - **Space Complexity:** Measures how memory usage increases as input size grows.
 
- ![Image](https://github.com/user-attachments/assets/2c6341a2-4a77-468e-a47d-541d91e39ebe)
+![Image](https://github.com/user-attachments/assets/2c6341a2-4a77-468e-a47d-541d91e39ebe)
+
+![big-o-complexity-chart](https://github.com/user-attachments/assets/74fb77a6-3436-4630-a451-1ebf0009301f)
 
 > #### Common Big O Notations
 
@@ -186,3 +190,78 @@ _Short description: Time does not depend on input size - always takes the same t
 **Examples:**
 
 ![Image](https://github.com/user-attachments/assets/299da2f9-6a76-4735-aab9-ba7f61945e8f)
+
+[<ins>**O(log n): Logarithmic Time**</ins>](https://en.wikipedia.org/wiki/Big_O_notation#:~:text=%5B15%5D-,Orders%20of%20common%20functions,-%5Bedit%5D)
+
+An algorithm has **O(log n) complexity** if the number of operations **decreases exponentially** as the input size (**n**) increases. Instead of processing each element one by one, the algorithm **repeatedly divides the problem into smaller parts**, typically by a factor of 2 (or another base). 
+
+This means that the time required to complete the algorithm grows much more slowly compared to linear time complexities, such as O(n). Logarithmic time complexity is particularly efficient for large data sets, making it a desirable characteristic in algorithm design.
+
+_Short Description: Reduces problem size each step._
+
+**Examples:**
+
+![Image](https://github.com/user-attachments/assets/6c38081b-4313-4bdf-97db-528f74ba2ecf)
+
+[<ins>**O(n): Linear Time**</ins>](https://en.wikipedia.org/wiki/Big_O_notation#:~:text=%5B15%5D-,Orders%20of%20common%20functions,-%5Bedit%5D)
+
+An algorithm has O(n) complexity if its execution time increases linearly with the input size (n). This means that if the input size doubles, the time taken by the algorithm also roughly doubles.
+
+_Short Description: Time increases linearly with the input size._
+
+**Examples:**
+
+![Image](https://github.com/user-attachments/assets/fae1ad13-80b9-4c40-bf93-1e0c27dde005)
+
+[<ins>**O(n log n): Linearithmic Time**</ins>](https://en.wikipedia.org/wiki/Big_O_notation#:~:text=%5B15%5D-,Orders%20of%20common%20functions,-%5Bedit%5D)
+
+O(n log n), or **linearithmic time complexity**, represents an algorithm whose execution time grows in proportion to the **product of the size of the input data set, denoted as *n*, and the logarithm of that size**.
+
+This means that as the input size increases, the time required to complete the algorithm increases at a rate that is faster than linear (O(n)) but slower than quadratic (O(n²)). Linearithmic time complexity is particularly significant in algorithms that involve both linear iterations and logarithmic divisions.
+
+_Short Description: The runtime of the algorithm grows linearly with the input AND with the logarithm of the input size. Common in Sorting Algorithms._
+
+**Examples:**
+
+![Image](https://github.com/user-attachments/assets/f921bef5-5fc9-44f2-8e47-2a12af3b331f)
+
+[<ins>**O(n^2): Quadratic Time**</ins>](https://en.wikipedia.org/wiki/Big_O_notation#:~:text=%5B15%5D-,Orders%20of%20common%20functions,-%5Bedit%5D)
+
+O(n²), or **quadratic time complexity**, describes an algorithm whose execution time grows proportionally to the square of the size of the input data set, denoted as *n*.
+
+**This means that if the input size doubles, the execution time increases by a factor of four (since 2² = 4)**. Quadratic time complexity is commonly associated with algorithms that involve nested iterations over the input data, where each element is compared or processed with every other element.
+
+_Short Description: Typical in Algorithms with Nested Loops._
+
+**Examples:**
+
+![Image](https://github.com/user-attachments/assets/7334f8e4-590a-4544-b3de-b699a9f9cfd9)
+
+[<ins>**O(2^n): Exponential Time**</ins>](https://en.wikipedia.org/wiki/Big_O_notation#:~:text=%5B15%5D-,Orders%20of%20common%20functions,-%5Bedit%5D)
+
+An algorithm has **O(2ⁿ) complexity** if its execution time **doubles with each additional input element (n).** This means that **if the input size increases by 1, the number of operations doubles.**
+
+Exponential time complexity typically arises in problems that involve **combinatorial growth**, such as recursion with multiple branching paths, brute-force approaches, and exhaustive searches. These algorithms become **extremely slow for large inputs** and are generally impractical beyond small values of **n**.
+
+_Short Description: Doubles with each additional input._
+
+**Examples:**
+
+![Image](https://github.com/user-attachments/assets/08573051-4c72-4218-ade8-825bdd024b90)
+
+[<ins>**O(n!): Factorial Time**</ins>](https://en.wikipedia.org/wiki/Big_O_notation#:~:text=%5B15%5D-,Orders%20of%20common%20functions,-%5Bedit%5D)
+
+Factorial growth is **extremely fast**—even faster than **exponential growth (O(2ⁿ))**. As a result, **O(n!) algorithms become impractical very quickly** beyond small values of **n**.
+
+_Short Description: Extremely inefficient! Runtime grows extremely fast!_
+
+**Examples:**
+
+![Image](https://github.com/user-attachments/assets/5acd4d08-3a02-434b-9080-9ab78f17c55a)
+
+> #### Common Big O Notations Summary?
+
+![big-o-summary](https://github.com/user-attachments/assets/effd5871-71d0-4be3-8877-8950666fe0fd)
+
+> #### Additional Big O Notations
+
