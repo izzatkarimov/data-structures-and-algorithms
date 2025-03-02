@@ -259,9 +259,16 @@ _Short Description: Extremely inefficient! Runtime grows extremely fast!_
 
 ![Image](https://github.com/user-attachments/assets/5acd4d08-3a02-434b-9080-9ab78f17c55a)
 
-> #### Common Big O Notations Summary?
+> #### Common Big O Notations Summary
 
 ![big-o-summary](https://github.com/user-attachments/assets/effd5871-71d0-4be3-8877-8950666fe0fd)
 
 > #### Additional Big O Notations
 
+<ins>**O (n * m): Bilinear Time**</ins>
+
+<ins>**O(n^3): Cubic Time**</ins>
+
+<ins>**O(c^n) : Exponential Time Complexity**</ins>
+
+<ins>**O(sqrt(n)): Square Root Time Complexity**</ins>
