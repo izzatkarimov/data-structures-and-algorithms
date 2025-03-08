@@ -279,6 +279,38 @@ _Short Description: This is the time complexity of a nested loop where the inner
 
 [<ins>**O(n^3): Cubic Time**</ins>](https://en.wikipedia.org/wiki/Big_O_notation#:~:text=%5B15%5D-,Orders%20of%20common%20functions,-%5Bedit%5D)
 
+An algorithm has **O(n³) complexity** when its execution time **grows proportionally to the cube of the input size**. This typically happens when three nested loops iterate over the input, processing each combination of elements.
+
+This means that if the input size increases, the execution time increases at a rate that is proportional to *n* × *n* × *n*, or n3. This type of complexity is typically seen in algorithms that involve three nested loops, where each loop iterates over the input data.
+
+_Short Description: The runtime of the algorithm grows cubically with the input size._
+
+**Examples:**
+
+![Screenshot 2025-02-03 at 3 06 55 AM](https://github.com/user-attachments/assets/15095d8d-7a56-4768-a597-7c7c27ab6aec)
+
 [<ins>**O(c^n) : Exponential Time Complexity**</ins>](https://en.wikipedia.org/wiki/Big_O_notation#:~:text=%5B15%5D-,Orders%20of%20common%20functions,-%5Bedit%5D)
 
+An algorithm has **O(cⁿ)** complexity when its execution time **grows exponentially with the size of the input**, where **c** is a constant greater than 1, and **n** is the size of the input. This type of growth is **extremely fast**, making the algorithm impractical for even relatively small values of **n** (typically, when **n > 20**).
+
+In this case, for each additional unit of **n**, the time taken to execute the algorithm grows **by a constant factor** (c).
+
+The growth rate of **O(c^n)** is extremely steep. For instance, if c=2, then for an input size of 10, the number of operations would be **2^10=1024**. If the input size increases to **20**, it jumps to **2^20=1,048,576**.
+
+_Short Description: The runtime of the algorithm grows exponentially with the input size._
+
+**Examples:**
+
+![Screenshot 2025-02-03 at 3 26 46 AM](https://github.com/user-attachments/assets/7d88de22-fade-4610-8aed-08644efca686)
+
 [<ins>**O(sqrt(n)): Square Root Time Complexity**</ins>](https://en.wikipedia.org/wiki/Big_O_notation#:~:text=%5B15%5D-,Orders%20of%20common%20functions,-%5Bedit%5D)
+
+O(√n), or **square root time complexity**, describes an algorithm whose execution time grows proportionally to the square root of the size of the input data set, denoted as *n*. 
+
+This means that as the input size increases, the time required to complete the algorithm increases at a rate proportional to n^1/2 . Square root time complexity is relatively efficient compared to linear or quadratic complexities, making it suitable for certain types of problems.
+
+_Short Description: The runtime of the algorithm grows as the square root of the input size._
+
+**Examples:**
+
+![Screenshot 2025-02-03 at 3 27 54 AM](https://github.com/user-attachments/assets/03bf69ee-f337-4467-9ca5-f568b9ce5002)
