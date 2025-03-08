@@ -265,10 +265,20 @@ _Short Description: Extremely inefficient! Runtime grows extremely fast!_
 
 > #### Additional Big O Notations
 
-<ins>**O (n * m): Bilinear Time**</ins>
+[<ins>**O (n * m): Bilinear Time**</ins>](https://en.wikipedia.org/wiki/Big_O_notation#:~:text=%5B15%5D-,Orders%20of%20common%20functions,-%5Bedit%5D)
 
-<ins>**O(n^3): Cubic Time**</ins>
+An algorithm has **O(n * m)** complexity when its execution time is **proportional to the product of two independent input sizes, n and m**. This typically occurs when processing **two separate data structures** or **iterating over a 2D matrix** where n represents the number of rows and m represents the number of columns.
 
-<ins>**O(c^n) : Exponential Time Complexity**</ins>
+Unlike **O(n²), where n and m are equal**, in **O(n * m), n and m can be different**, making it more general than quadratic complexity.
 
-<ins>**O(sqrt(n)): Square Root Time Complexity**</ins>
+_Short Description: This is the time complexity of a nested loop where the inner loop runs m times for each iteration of the outer loop._
+
+**Examples:**
+
+![Screenshot 2025-02-03 at 3 02 54 AM](https://github.com/user-attachments/assets/f98aae80-fad3-4d5e-ab4e-1c9cf2a044cb)
+
+[<ins>**O(n^3): Cubic Time**</ins>](https://en.wikipedia.org/wiki/Big_O_notation#:~:text=%5B15%5D-,Orders%20of%20common%20functions,-%5Bedit%5D)
+
+[<ins>**O(c^n) : Exponential Time Complexity**</ins>](https://en.wikipedia.org/wiki/Big_O_notation#:~:text=%5B15%5D-,Orders%20of%20common%20functions,-%5Bedit%5D)
+
+[<ins>**O(sqrt(n)): Square Root Time Complexity**</ins>](https://en.wikipedia.org/wiki/Big_O_notation#:~:text=%5B15%5D-,Orders%20of%20common%20functions,-%5Bedit%5D)
