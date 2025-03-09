@@ -15,19 +15,31 @@ This repository contains my personal notes on Data Structures and Algorithms, wi
   - [Books](#books)
   - [Practice](#practice)
 - [Notes](#notes)
-  - [What is a Data Structure](#what-is-a-data-structure)
-  - [What are the types of Data Structures?](#what-are-the-types-of-data-structures)
-  - [What are Primitive Data Structures?](#what-are-primitive-data-structures)
-  - [What are Non-Primitive Data Structures?](#what-are-non-primitive-data-structures)
-  - [What is a Linear Data Strcuture?](#what-is-a-linear-data-structure)
-  - [What is a Non-Linear Data Structure?](#what-is-a-non-linear-data-structure)
-  - [What is a Hash-Based Data Structure](#what-is-a-hash-based-data-structure)
-  - [What is a Static Data Structure?](#what-is-a-static-data-structure)
-  - [What is a Dynamic Data Structure?](#what-is-dynamic-data-structure)
-  - [What is Big O Notation?](#what-is-big-o-notation)
-  - [Common Big O Notations](#common-big-o-notations)
-  - [Common Big O Notations Summary](#common-big-o-notations-summary)
-  - [Additional Big O Notations](#additional-big-o-notations)
+  - [Getting Started](#getting-started)
+    - [What is a Data Structure](#what-is-a-data-structure)
+    - [What are the types of Data Structures?](#what-are-the-types-of-data-structures)
+    - [What are Primitive Data Structures?](#what-are-primitive-data-structures)
+    - [What are Non-Primitive Data Structures?](#what-are-non-primitive-data-structures)
+    - [What is a Linear Data Strcuture?](#what-is-a-linear-data-structure)
+    - [What is a Non-Linear Data Structure?](#what-is-a-non-linear-data-structure)
+    - [What is a Hash-Based Data Structure](#what-is-a-hash-based-data-structure)
+    - [What is a Static Data Structure?](#what-is-a-static-data-structure)
+    - [What is a Dynamic Data Structure?](#what-is-dynamic-data-structure)
+    - [What is Big O Notation?](#what-is-big-o-notation)
+    - [Common Big O Notations](#common-big-o-notations)
+    - [Common Big O Notations Summary](#common-big-o-notations-summary)
+    - [Additional Big O Notations](#additional-big-o-notations)
+  - [Data Structures](#data-structures)
+    - [Arrays](#arrays)
+    - [Linked Lists](#linked-lists)
+    - [Stacks](#stacks)
+    - [Queues](#queues)
+    - [Trees](#trees)
+    - [Hash Tables](#hash-tables)
+    - [Heaps / Priority Queues](#heaps--priority-queues)
+    - [Graphs](#graphs)
+    - [Tries](#tries)
+  - [Algorithms](#algorithms)
 
 ## Resources
 > The following is a list of online courses, YouTube videos, and websites to help learn Data Structures & Algorithms. Note that these are not in order of completion.
@@ -87,6 +99,8 @@ This repository contains my personal notes on Data Structures and Algorithms, wi
 - [LeetCode Patterns](https://seanprashad.com/leetcode-patterns/)
 
 ## Notes
+
+### Getting Started
 
 > #### What is a Data Structure?
 
@@ -314,3 +328,27 @@ _Short Description: The runtime of the algorithm grows as the square root of the
 **Examples:**
 
 ![Screenshot 2025-02-03 at 3 27 54 AM](https://github.com/user-attachments/assets/03bf69ee-f337-4467-9ca5-f568b9ce5002)
+
+### Data Structures
+
+> #### Arrays
+
+> #### Linked Lists
+
+> #### Stacks
+
+> #### Queues
+
+> #### Trees
+
+> #### Hash Tables
+
+> #### Heaps / Priority Queues
+
+> #### Graphs
+
+> #### Tries
+
+### Algorithms
+
+[🔼 Back to Top](#table-of-contents)
