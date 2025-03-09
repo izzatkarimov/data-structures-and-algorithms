@@ -40,6 +40,17 @@ This repository contains my personal notes on Data Structures and Algorithms, wi
     - [Graphs](#graphs)
     - [Tries](#tries)
   - [Algorithms](#algorithms)
+    - [Sorting](#sorting)
+    - [Searching](#searching)
+    - [Two Pointers](#two-pointers)
+    - [Sliding Window](#sliding-window)
+    - [Recursion](#recursion)
+    - [Dynamic Programming](#dynamic-programming)
+    - [Greedy](#greedy)
+    - [Backtracking](#backtracking)
+    - [Bit Manipulation](#bit-manipulation)
+    - [Divide & Conquer](#divide--conquer)
+    - [Graph](#graph)
 
 ## Resources
 > The following is a list of online courses, YouTube videos, and websites to help learn Data Structures & Algorithms. Note that these are not in order of completion.
@@ -350,5 +361,27 @@ _Short Description: The runtime of the algorithm grows as the square root of the
 > #### Tries
 
 ### Algorithms
+
+> #### Sorting
+
+> #### Searching 
+
+> #### Two Pointers
+
+> #### Sliding Window
+
+> #### Recursion
+
+> #### Dynamic Programming
+
+> #### Greedy
+
+> #### Backtracking
+
+> #### Bit Manipulation
+
+> #### Divide & Conquer
+
+> #### Graph
 
 [🔼 Back to Top](#table-of-contents)
