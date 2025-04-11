@@ -77,14 +77,16 @@ This repository contains my personal notes on Data Structures and Algorithms, wi
 | Awesome Algorithms | `github-repo` | [Repository Link](https://github.com/tayllan/awesome-algorithms) |
 
 ### Websites
-- [Roadmap to learn DSA by Neetcode](https://neetcode.io/roadmap)
+- [Neetcode Roadmap](https://neetcode.io/roadmap)
 - [AlgoMap](https://algomap.io/)
 - [VisuAlgo](https://visualgo.net/en)
-- [Data Structure Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+- [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
 ### Courses
 - [Neetcode Courses](https://neetcode.io/courses)
-- [C++ Data Structures & Algorithms + LEETCODE Exercises](https://www.udemy.com/course/data-structures-algorithms-cpp/)
+- [C++ Interview Prep: Data Structures & Algorithms](https://www.udemy.com/course/data-structures-algorithms-cpp/)
+- [Java Interview Prep: Data Structures & Algorithms](https://www.udemy.com/course/data-structures-and-algorithms-java/)
+- [Python Interview Prep: Data Structures & Algorithms](https://www.udemy.com/course/data-structures-algorithms-python/)
 - [The Last Algorithms Course You'll Need](https://frontendmasters.com/courses/algorithms/)
 
 ### YouTube Channels / Playlists / Videos
